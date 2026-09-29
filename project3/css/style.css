@@ -1,0 +1,62 @@
+body {
+	font-family: Verdana, Arial, sans-serif;
+	margin: 0;
+}
+
+header {
+	background-color: #8b0000;
+	color: white;
+	padding: 20px;
+	text-align: center;
+}
+
+nav {
+	text-align: center;
+}
+
+nav a {
+	color: white;
+	padding: 10px;
+}
+
+nav a:hover {
+	background-color: white;
+	color: #8b0000;
+}
+
+.wrapper {
+	width: 80%;
+	margin: auto;
+	padding: 20px;
+}
+
+#artist-name {
+	letter-spacing: 2px;
+}
+
+h1 {
+	font-size: 32px;
+}
+
+h2 { 
+	color: #8b0000;
+}
+
+p {
+	line-height: 1.5;
+}
+
+img {
+	max-width: 400px;
+	height: auto;
+	margin-bottom: 5px;
+}
+
+footer {
+	background-color: #8b0000;
+	color: white;
+	padding: 10px;
+	text-align: center;
+}
+
+
